@@ -24,14 +24,14 @@
 
 ## 📚 课程与学习记录
 
-我打算逐步把代码量较多的课程实验和大作业整理到 GitHub，目前主要包括：
+最近把几门包含较多实验、代码或报告的课程整理到了 GitHub。它们更像学习档案，而不是重新包装过的完整项目：
 
-- 软件体系结构与设计模式
-- 算法设计与分析
-- 计算机系统
-- Java 互联网编程
+- [软件体系结构与设计模式](https://github.com/Kevin87654/SoftwareArchitecture-DesignPatterns)：记录 Java、Python、C# 实验，以及面向对象设计原则、分层架构和 GoF 设计模式；
+- [算法设计与分析](https://github.com/Kevin87654/algorithm-design-and-analysis)：包含 Python、C++ 实验，涉及分治、回溯、动态规划、并查集和最大流；
+- [Java 互联网编程](https://github.com/Kevin87654/java-internet-programming)：记录 DNS、TCP Socket、多线程、URL 下载、HTTP 与 Cookie 等课程实践；
+- [计算机系统（2）](https://github.com/Kevin87654/computer-systems-2-learning-notes)：以实验报告为主，整理 Linux、GCC、GDB、数据表示、程序调试与 Cache 等学习内容。
 
-相关仓库还在整理中，希望这里能慢慢变成一份真实的学习记录。
+这些仓库主要保留完成课程时的原始状态，可能包含不够成熟的实现，也没有按照生产项目标准重新包装。
 
 ## 🛠️ 我目前在用
 
